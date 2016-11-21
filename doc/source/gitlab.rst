@@ -3,6 +3,7 @@ GitLab Usage
 
 
 
+
 .. toctree::
    :maxdepth: 2
 
@@ -10,3 +11,4 @@ GitLab Usage
    gitlab/project
    gitlab/group
    gitlab/issue
+   gitlab/mr
