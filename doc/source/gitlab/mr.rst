@@ -62,8 +62,8 @@ How to Merge
 The merge request can be merged by assignee when:
 
 - The GitLab CI passed
-- After Code Review by a group of people
-- Check out the branch and pass the functional test
+- Code Review by a group of people, anyone can do code review.
+- Check out the branch and do the functional test if needed.
 - Other requirements
 
 
@@ -74,7 +74,7 @@ There are some operations after merge:
 
 - Remove source branch (optional)
 - Check related issues and make sure close them
-- Check master branch build status
+- Check master branch's build status
 - Others
 
 

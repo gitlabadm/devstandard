@@ -1,7 +1,8 @@
 Administration
 ===============
 
-There is for GitLab Administrator. How to install/configure/upgrade/maintain GitLab.
+There is for GitLab Administrator. How to install/configure/upgrade/maintain GitLab. If you chose gitlab.com to host your source code, then
+you can ignore this secion.
 
 
 Install
